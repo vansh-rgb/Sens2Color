@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sens2Color</string>
+    <string name="swipe_hand_over_proxymity_sensor_to_change_color">Swipe Hand Over Proximity Sensor to Change Color:</string>
+    <string name="tilt_or_change_orientation_to_change_color">Tilt or Change Orientation to Change Color:</string>
+</resources>
